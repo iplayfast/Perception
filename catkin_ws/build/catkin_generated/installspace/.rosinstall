@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chris/ai/udacity/pickandplace/catkin_ws/install/setup.sh

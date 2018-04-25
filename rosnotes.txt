@@ -1,0 +1,4 @@
+os not supported specify --os=ubuntu:xenial
+eg
+rosdep install --from-paths src --ignore-src --rosdistro=kinetic -y --os=ubuntu:xenial
+
